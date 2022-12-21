@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nusii27
-- 👀 I’m interested in Computer Science and becoming a software developer.
-- 🌱 I’m currently learning C++ and Java. 
+- 👀 I’m interested in Computer Science and becoming a software developer/ programmer.
+- 🌱 I’m currently learning C++, Java & C#. 
 - 💞️ I’m looking to collaborate on projects to help me grow my coding knowledge and experience.
 - 📫 How to reach me: Nusrat.choudhury1@live.lagcc.cuny.edu
 
